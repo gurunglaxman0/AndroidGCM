@@ -1,0 +1,22 @@
+{
+  "name": "android-gcm-push",
+  "version": "1.0.0",
+  "description": "Google cloud messaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurunglaxman0/AndroidGCM.git"
+  },
+  "keywords": [
+    "node-gcm"
+  ],
+  "author": "@gurunglaxman0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurunglaxman0/AndroidGCM/issues"
+  },
+  "homepage": "https://github.com/gurunglaxman0/AndroidGCM#readme"
+}
